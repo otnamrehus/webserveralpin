@@ -17,7 +17,6 @@ A. DIRECTORY
 
 webserveralpine
    
-    - Dockerfile
     - docker-compose.yml
     - index.php
     - nginx.conf
